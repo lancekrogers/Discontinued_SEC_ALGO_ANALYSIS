@@ -1,3 +1,5 @@
+numpy==1.11.2
+pandas==0.17.1
 alembic==0.8.8
 appnope==0.1.0
 bcolz==0.12.1
@@ -42,8 +44,6 @@ nbformat==4.1.0
 networkx==1.11
 notebook==4.2.3
 numexpr==2.6.1
-numpy==1.11.2
-pandas==0.17.1
 pandas-datareader==0.2.1
 pathlib==1.0.1
 patsy==0.4.1
