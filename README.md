@@ -1,7 +1,6 @@
-#This project was built for the development of an automated trading system that has been discontinued
+<h1>These notebooks and files were used in the development of an automated trading system that has since been discontinued and are solely for future reference purposes</h1>
 <p>
-The goal of this project was to build an automated system that would analyze SEC filings as they were filed and make a decision to buy or sell based on historical results.
-This project has not been worked on since January 2017 and the FTP server used by the edgardb library has been turned off by the SEC and the library has not been updated.  There are no current plans to continue the development of this project and it is solely on github for future reference purposes.
+The goal of this system was to have a bot monitoring the SEC server, analyze companies filings as they were filed, identify mispriced securities and make a trading decision based on 2 to 3 month outlook.  As of right now there are no plans to continue this project, but that may change in the future.
 </p>
 
 
@@ -9,13 +8,13 @@ This project has not been worked on since January 2017 and the FTP server used b
 
 
 
-#Notes
+<h1>Notes</h1>
 
 
-###This directory is for analyzing SEC filings and stock data and to design an automated trading system
+<p>This directory is for analyzing SEC filings and stock data and to design an automated trading system</p>
 
 
 
-###Make sure to install numpy manually before pip installing requirements.txt
+<p>Make sure to install numpy manually before pip installing requirements.txt</p>
 
  
